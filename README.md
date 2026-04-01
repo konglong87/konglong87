@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-i am 🦖  哈哈哈
-https://konglong87.github.io/anything-ai/
+欢迎欢迎
+i am 🦖  
+哈哈哈
+
+- 🔭 I’m currently working on 学习AI知识 https://konglong87.github.io/anything-ai/...
+- 🌱 I’m currently learning AI工具 https://konglong87.github.io/anything-ai/ ...
+- 👯 I’m looking to collaborate on AI驾驭 https://konglong87.github.io/anything-ai/ ...
+- 🤔 I’m looking for help with 龙虾🦞 超级助手...
+- 💬 Ask me about AI、场景、skills、Agent、LLM...
+- 📫 How to reach me: 2235998553@qq.com...
+
+
 <!--
 
 **konglong87/konglong87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
