@@ -5,7 +5,9 @@ i am 🦖
 哈哈哈
 
 - 👯 I’m looking to collaborate on AI驾驭和知识 https://konglong87.github.io/anything-ai/ ...
-- 💬 Ask me about AI、场景、skills、Agent、LLM...
+- 💬 一键部署龙虾窝群 https://github.com/konglong87/jiutouniao
+- 🐰 信息图skills https://github.com/konglong87/infographic-generator-skills
+- 🤩 和13位大佬分身面谈  https://github.com/konglong87/hall-of-fame
 - 📫 How to reach me: 2235998553@qq.com...
 <!--
 
