@@ -6,7 +6,7 @@ i am 🦖
 
 - 👯  AI学习和知识 https://konglong87.github.io/anything-ai/ ...
 -----
-- 🌲 萃取蒸馏自己文章，让AI按照自己的风格DNA写"对味儿"的文章 [https://github.com/konglong87](https://github.com/konglong87/shenbi-maliang)
+- 🌲 萃取蒸馏自己文章，让AI按照自己的风格DNA写"对味儿"的文章 [神笔马良dna](https://github.com/konglong87/shenbi-maliang)
 -----
 - 💬 一键部署龙虾窝群 https://github.com/konglong87/jiutouniao
 - 🐰 信息图skills https://github.com/konglong87/infographic-generator-skills
