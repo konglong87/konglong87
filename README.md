@@ -5,8 +5,12 @@ i am 🦖
 哈哈哈
 
 - 👯  AI学习和知识 https://konglong87.github.io/anything-ai/ ...
+-----
+- 🌲 萃取蒸馏自己文章，让AI按照自己的风格DNA写"对味儿"的文章 [https://github.com/konglong87](https://github.com/konglong87/shenbi-maliang)
+-----
 - 💬 一键部署龙虾窝群 https://github.com/konglong87/jiutouniao
 - 🐰 信息图skills https://github.com/konglong87/infographic-generator-skills
+-----
 - 🤩 和13位大佬分身面谈  https://github.com/konglong87/hall-of-fame
 - 📫 How to reach me: 2235998553@qq.com...
 - 🍌 国内使用nanabnana和GPTImage不需要科学上网 https://github.com/konglong87/nano-banana-pro-china
