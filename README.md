@@ -1,14 +1,12 @@
 ## 欢迎欢迎 👋
-i am 🦖  
-哈哈哈
+i am 🦖  哈哈哈
 -----
 - 🌲 萃取蒸馏自己文章，让AI按照自己的风格DNA写"对味儿"的文章 [神笔马良dna](https://github.com/konglong87/shenbi-maliang)
 -----
 - 💬 一键部署龙虾窝群 https://github.com/konglong87/jiutouniao
 - 🐰 信息图skills https://github.com/konglong87/infographic-generator-skills
 -----
-- 🤩 和13位大佬分身面谈  https://github.com/konglong87/hall-of-fame
-- 📫 How to reach me: 2235998553@qq.com...
+- 🤩 和13位大佬面对面面谈[大佬面对面]( https://github.com/konglong87/hall-of-fame)
 <!--
 
 **konglong87/konglong87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
