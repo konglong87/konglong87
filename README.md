@@ -3,7 +3,7 @@ i am 🦖  哈哈哈
 -----
 - 🌲 薅羊毛🐑🐑 [免费大模型-免费api-key](https://github.com/konglong87/free-AI-free-token)
 -----
-- 💬 一键部署龙虾黑马窝群[九头虾](https://github.com/konglong87/jiutouniao)
+- 💬 专为产品经理设计的 AI工具 Skills技能[superPM](https://github.com/konglong87/superPM)
 -----
 - 🤩 和13位大佬面对面面谈[大佬面对面]( https://github.com/konglong87/hall-of-fame)
 <!--
