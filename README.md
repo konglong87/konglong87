@@ -1,7 +1,7 @@
 ## 欢迎欢迎 👋
 i am 🦖  哈哈哈
 -----
-- 🌲 薅羊毛🐑🐑 [免费大模型-免费api-key](https://github.com/konglong87/free-AI-free-token)
+- 🌲 薅羊毛🐑🐑申请--> [免费大模型-免费api-key](https://github.com/konglong87/free-AI-free-token)
 -----
 - 💬 专为产品经理设计的 AI工具 Skills技能[superPM](https://github.com/konglong87/superPM)
 -----
